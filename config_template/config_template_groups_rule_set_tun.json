@@ -36,6 +36,15 @@
     ],
     "rules": [
       {
+  "type": "field",
+  "field": "destination.custom_node_type",
+  "operator": "in",
+  "value": [
+    "vless",
+    "ss"
+  ]
+      }
+      {
         "domain": [
           "ghproxy.com",
           "cdn.jsdelivr.net",
