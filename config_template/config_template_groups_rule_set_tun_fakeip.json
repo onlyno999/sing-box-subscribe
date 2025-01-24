@@ -27,7 +27,7 @@
     "servers": [
       {
         "tag": "google",
-        "address": "tls://8.8.8.8"
+        "address": "tls://108.177.125.188"
       },
       {
         "tag": "local",
